@@ -8,7 +8,7 @@
       <p><b>地址：海南省儋州市宝岛新村海南大学儋州校区</b></p>
     </td>
     <td width="25%">
-      <img src="/picture.jpg"  width="100%">
+      <img src="/picture.jpg" width="100%">     %本人证件照
     </td>
   </tr>
 </table>
