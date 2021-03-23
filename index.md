@@ -1,4 +1,4 @@
-### <table border="0">
+<table border="0">
   <tr>
     <td width="75%">
       <h1>李子豪</h1>
@@ -13,6 +13,7 @@
   </tr>
 </table>
 ### 个人信息
+
 ####  姓名：李子豪
 
 
